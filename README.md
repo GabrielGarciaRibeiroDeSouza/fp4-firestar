@@ -32,3 +32,6 @@ Equipe:
    Gabriel Garcia R. de Souza: Level Design, Sons
 
 Desenvolvimento e Orçamento:
+   Previsão de custo: R$475 mil
+   Prazo de elaboração e desenvolvimento: 12 meses
+   5 pessoas para desenvolver
