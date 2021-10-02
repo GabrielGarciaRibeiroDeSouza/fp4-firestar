@@ -1,4 +1,4 @@
-# fp4
+# FireStar
 
 Nome do Jogo:
    jogo da lontra
