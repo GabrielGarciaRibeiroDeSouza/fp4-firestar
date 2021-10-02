@@ -22,7 +22,7 @@ Sistema operacional:
    Computador
 
 Publico alvo e Idade:
-   14 anos
+   14 anos, Fãs de side-scroller
 
 Equipe:
    Matheus Marcelo Cassiolato Crudi: Level Design, Sons
