@@ -22,7 +22,7 @@ Sistema operacional:
    Computador
 
 Publico alvo e Idade:
-   14 ou 16 anos
+   14 anos
 
 Equipe:
    Matheus Marcelo Cassiolato Crudi: Level Design, Sons
