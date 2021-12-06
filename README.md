@@ -1,5 +1,10 @@
 # FireStar
 
+Game publicado em:
+https://gamejolt.com/games/DWO/669051
+
+High concenpt:
+
 Nome do Jogo:
    jogo da lontra
 
