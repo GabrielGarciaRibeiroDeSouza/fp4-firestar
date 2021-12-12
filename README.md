@@ -158,7 +158,7 @@ CONTROLE:
 
   Move com a tecla  [A] e [D], se esconde nos arbustos que estão espalhados no mapa com a tecla [S], pula com [ESPAÇO], e dá um segundo pulo apertando [ESPAÇO] enquanto ainda está no ar e es segurar a barra de espaço, o jogador pula mais alto.
 
-
+no puzzle usa as teclas [seta para cima] e [seta para baixo] para rotacionar o cenario no puzzle e concluir ele.
 
 pg4
 
